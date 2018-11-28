@@ -1,0 +1,22 @@
+{
+  "name": "find-index",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaronAmI/findIndex.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaronAmI/findIndex/issues"
+  },
+  "homepage": "https://github.com/KaronAmI/findIndex#readme",
+  "devDependencies": {
+    "ava": "^0.25.0"
+  }
+}
