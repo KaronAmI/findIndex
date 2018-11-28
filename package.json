@@ -1,6 +1,7 @@
 {
-  "name": "find-index",
-  "version": "1.0.0",
+  "name": "find-my-index",
+  "author": "hikaronami@gmail.com",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +11,6 @@
     "type": "git",
     "url": "git+https://github.com/KaronAmI/findIndex.git"
   },
-  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/KaronAmI/findIndex/issues"
